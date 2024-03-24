@@ -56,7 +56,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/sunny/aospa_sunny.mk \
     $(LOCAL_DIR)/surya/aospa_surya.mk \
     $(LOCAL_DIR)/vayu/aospa_vayu.mk \
-    $(LOCAL_DIR)/realme/aospa_RM6785.mk \
+    $(LOCAL_DIR)/RM6785/aospa_RM6785.mk \
     $(LOCAL_DIR)/xiaomi13/aospa_xiaomi13.mk
 
 # Lunch targets

@@ -25,7 +25,10 @@ PRODUCT_PACKAGES += \
     FontGoogleSansOverlay \
     FontHarmonySansOverlay \
     FontInterOverlay \
+    FontLinotteSourceOverlay \
     FontManropeOverlay \
+    FontOnePlusSansOverlay  \
+    FontOppoSansOverlay \
     FontUrbanistOverlay \
     IconPackCircularAndroidOverlay \
     IconPackCircularLauncherOverlay \
@@ -57,6 +60,13 @@ PRODUCT_PACKAGES += \
     IconPackRoundedSettingsOverlay \
     IconPackRoundedSystemUIOverlay \
     IconPackRoundedThemePickerOverlay \
+    IconShapePebbleOverlay \
+    IconShapeRoundedRectOverlay \
+    IconShapeSquareOverlay \
+    IconShapeSquircleOverlay \
+    IconShapeTaperedRectOverlay \
+    IconShapeTeardropOverlay \
+    IconShapeVesselOverlay \
     ParanoidLauncherOverlay
 
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/aospa/overlay/static
